@@ -1,0 +1,1 @@
+Allows the user to input a string, followed by a dictionary of substrings. Then returns the substrings found in the original string as a hash.
